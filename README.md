@@ -9,7 +9,8 @@ the recording of the meeting provides one video (mp4, 1280 x 720 at 25fps) with 
 A downsample example is shown below: the recording was done using 4 devices attending the same zoom meeting:  
 - PC (windows 10, wired broadband, host recording the meeting) 
 - 3 wireless devices (ipad + android smartphone + windows laptop).  
-The multiple views appearing in the Zoom video are  well synchronised.
+
+The multiple views appearing in the Zoom video are  all well synchronised overall.
 
 <img width="200" alt="multiple video video capture" src="ZoomImageppt.png">
  
