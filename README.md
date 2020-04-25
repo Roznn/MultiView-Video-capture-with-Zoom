@@ -16,7 +16,9 @@ The multiple views appearing in the Zoom video are  well synchronised.
 Multiple view videos have historically many applications in computer video 
 (e.g. for performance capture for 3D rendering), and this approach may 
 provide easy access to such recordings.  
-Please cite this repo if you have found this approach useful in your work: 
+Please cite the following reference if you have found this approach useful in your work: 
+
+> MultiView Video capture with Zoom, R. Dahyot, April 2020, https://github.com/Roznn/MultiView-Video-capture-with-Zoom
 
 ```
 @misc{RzDMVidZoomCapture,
