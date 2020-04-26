@@ -1,4 +1,4 @@
-# MultiView-Video-capture-with-Zoom
+# MultiView Video Capture-with-Zoom
 
 DIY Computer Vision at Home  -  multiple view video capture using Zoom
 
