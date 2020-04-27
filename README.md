@@ -14,7 +14,7 @@ The multiple views appearing in the Zoom video are  all well synchronised overal
 <img width="200" alt="multiple video video capture" src="ZoomImageppt.png">
  
 Multiple view videos have historically many applications in computer video 
-(e.g. for performance capture for 3D rendering) and combined with sound, provides suitable recordings for [Audio Visual Speech Recognition research](https://en.wikipedia.org/wiki/Audio-visual_speech_recognition), and this approach (using recording of meeting with Zoom)  may provide easy access to such recordings and creating datasets suitable for AI.
+(e.g. for performance capture for 3D rendering). Combined with sound, this also provides suitable recordings for [Audio Visual Speech Recognition research](https://en.wikipedia.org/wiki/Audio-visual_speech_recognition) (single or multiple views / single or multiple participants), and this approach (using recording of meeting with Zoom)  can provide easy access to such recordings that are also suitable for  creating personal datasets suitable for training AI.
 
 Please cite the following reference if you have found this approach useful in your work: 
 
